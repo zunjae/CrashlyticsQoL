@@ -1,5 +1,5 @@
-# CrashlyticsQoL
-Improve your QoL when using Crashlytics
+# FirebaseQoL
+Improve your QoL when using Firebase
 
 ## LogKeys
 
