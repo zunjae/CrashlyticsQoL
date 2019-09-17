@@ -3,6 +3,7 @@
 
   override fun onCreate(savedInstanceState: Bundle?) {
       // basic onCreate code here
+    
       setCrashLogKeys()
       
       // code that can possibly fail here
