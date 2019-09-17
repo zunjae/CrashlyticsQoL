@@ -21,6 +21,7 @@
           // note: if the value is null, then Crashlytics will ignore logging it
           Crashlytics.setString(key, value ?: "<null value>")
         } catch (exception: Exception) {
+          // optionally log this exception
           Timber.e(exception)
         }
       }
